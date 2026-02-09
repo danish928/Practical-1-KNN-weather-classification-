@@ -36,4 +36,6 @@ ax . set_title ( 'KNN Weather Classification' )
 ax . legend ()
 ax . grid ( True )
 
-st . pyplot ( fig ), color="Weather")
+plt.title("Weather")
+st.pyplot(fig)
+
